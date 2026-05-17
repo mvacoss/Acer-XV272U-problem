@@ -3,8 +3,8 @@ A friend of mine gave me monitor and said it wasnt working. He told me that it h
 
 *You can see the damage below by yourself*
 
-<img width=auto height=350 alt="IMG_20260425_222926" src="https://github.com/user-attachments/assets/57194124-a701-4c4b-9b90-03930bc4a7dd" />
-<img width=auto height=350 alt="IMG_20260425_222933" src="https://github.com/user-attachments/assets/bd2f5b9b-4649-40b1-84db-67c9d25148d9" />
+<img width=auto height=300 alt="IMG_20260425_222926" src="https://github.com/user-attachments/assets/57194124-a701-4c4b-9b90-03930bc4a7dd" />
+<img width=auto height=300 alt="IMG_20260425_222933" src="https://github.com/user-attachments/assets/bd2f5b9b-4649-40b1-84db-67c9d25148d9" />
 
 ## Repair
 I need to look at this thing more, because the best you want from you project is that it works when you have it taken apart, but when you put it together and take a really good care of everything, it suddenly doesn't work. In my case when I power on the monitor, half of it is white and the other half is black. No video input, no sound, just the Acer logo on startup.
@@ -12,5 +12,5 @@ I need to look at this thing more, because the best you want from you project is
 *At least you can see the quality of my work below (if you will)*
 
 <img width=auto height=450 alt="IMG_20260508_185243__01" src="https://github.com/user-attachments/assets/1d9e25ae-f3d8-4709-8d79-b04fe5daffec" />
-<img width=auto height=350 alt="IMG_20260508_185127__01" src="https://github.com/user-attachments/assets/b7db3a4c-b1a5-4064-ab6b-5d458d5cfff5" />
-<img width=auto height=350 alt="IMG_20260508_185119__01" src="https://github.com/user-attachments/assets/f36e1859-256a-4dcc-9a1c-1e5f042ec2e5" />
+<img width=auto height=300 alt="IMG_20260508_185127__01" src="https://github.com/user-attachments/assets/b7db3a4c-b1a5-4064-ab6b-5d458d5cfff5" />
+<img width=auto height=300 alt="IMG_20260508_185119__01" src="https://github.com/user-attachments/assets/f36e1859-256a-4dcc-9a1c-1e5f042ec2e5" />
